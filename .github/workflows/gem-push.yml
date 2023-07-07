@@ -21,4 +21,4 @@ jobs:
     - name: Step 2 Install dependencies
       run: bundle install
     - name: Step 3 Run test
-      run: Cucumber
+      run: cucumber
